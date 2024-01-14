@@ -1,2 +1,2 @@
 # Demo
-this is my first learning repo
+this is my first learning repository
